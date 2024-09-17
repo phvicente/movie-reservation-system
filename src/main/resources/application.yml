@@ -29,8 +29,8 @@ logging:
     root: INFO
     org.springframework.web: DEBUG
 
-jwt:
-  secret: jm82cU
+jwt: #adminadminadminadminadminadminadminadminadminadminadminadminadminadminadmin
+  secret: YWRtaW5hZG1pbmFkbWluYWRtaW5hZG1pbmFkbWluYWRtaW5hZG1pbmFkbWluYWRtaW5hZG1pbmFkbWluYWRtaW5hZG1pbmFkbWlu
   expiration: 86400
 
 springdoc:
